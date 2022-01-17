@@ -1,0 +1,7 @@
+GIT
+ 
+Criado em 2005, o GIT é um sistema(SOFTWARE) de versionamento de código distribuído, criado por Linus Torvalds (criador do Linux). Quando estava desenvolvendo o LINUX, ele precisava na época de um sistema que “versionasse” ou seja, criasse versões do trabalho que estava sendo executado e que fosse complexo suficiente para suportar que várias pessoas trabalhassem no mesmo arquivo ou até alterando a mesma linha simultaneamente. Assim nasceu o GIT. Já existiam outros softwares de versionamento, mas LINUS criou sua versão do software pois não estava satisfeito com os que haviam na época. Ele odiava CVS da Subversion kkk.
+
+Ele ajuda a criar e monitorar diversas versões do código que está sendo executado dentro da máquina.
+
+GIT E GITHUB são diferentes, pois no GITHUB(versionador) vc cria o versionamento, e no GITHUB (repositório) vc armazena o que foi feito.
