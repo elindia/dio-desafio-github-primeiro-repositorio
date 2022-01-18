@@ -4,4 +4,4 @@ Criado em 2005, o GIT é um sistema(SOFTWARE) de versionamento de código distri
 
 Ele ajuda a criar e monitorar diversas versões do código que está sendo executado dentro da máquina.
 
-GIT E GITHUB são diferentes, pois no GITHUB(versionador) vc cria o versionamento, e no GITHUB (repositório) vc armazena o que foi feito.
+GIT E GITHUB são diferentes, pois no GIT(versionador) vc cria o versionamento, e no GITHUB (repositório) vc armazena o que foi feito.
